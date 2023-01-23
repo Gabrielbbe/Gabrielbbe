@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gabrielbbe
-- 👀 I’m interested in Statistics and Data Science
-- This profile is under construction
+- 👀 Estudante de Estatística e Ciência de Dados
+- Em construção
 
 <!---
 Gabrielbbe/Gabrielbbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
