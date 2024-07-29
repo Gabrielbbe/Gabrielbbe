@@ -1,14 +1,11 @@
 
-# 👋 Hi
+# 👋 Hi 
 
-- 👀 Estudante de Estatística e Ciência de Dados
-- Em construção
+I'm Gabriel, I'm graduated in Statistics and Data Science(by USP) from Brazil.
+With a strong background in statistics I'm always eager to take on new challenges, explore new technologies and paths.
 
-# Techs
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-e SQL
+# Let's connect on Social media
+You can find me on [Linkedin](https://www.linkedin.com/in/gabrielbbueno/). In my [Medium](https://medium.com/@gabrielbbr) I write some tutorials and some insights important for data analysis. Feel free to reach out to me. I'm always happy to connect and learn from others in the community.
+
+# About me
+🧐 - I'm curious and I like learning about almost anything.
