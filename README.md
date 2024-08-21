@@ -1,7 +1,7 @@
 
 # 👋 Hi 
 
-I'm Gabriel, I'm graduated in Statistics and Data Science(by USP) from Brazil.
+I'm Gabriel, I'm graduated in Statistics and Data Science (by USP) from Brazil.
 With a strong background in statistics I'm always eager to take on new challenges, explore new technologies and paths.
 
 # Let's connect on Social media
